@@ -78,16 +78,16 @@
   ],
   "artifacts": [
     {
-      "hash": "aee9607e9df2537a187ca36b4b509bfd130e433f71c2f7568fb41519b5127c24",
+      "hash": "ee9182bc038f21e96021711a7492acc8fd770950599a22db79bff59dd1343c7c",
       "name": "game-0.0.1.jar",
       "path": "https://github.com/MissSussy/Elvarg_Hosting/raw/main/client/live/repo/game-0.0.1.jar",
-      "size": 1631580
+      "size": 1330091
     },
     {
-      "hash": "0d785167582b9acea751e17da1871448a40840145314e238c8399820fd569353",
+      "hash": "58fabe32dfdae87a446b8afaa9ab1841951ecd5727632d3bc100bf9f0fec6981",
       "name": "runelite-0.0.1.jar",
       "path": "https://github.com/MissSussy/Elvarg_Hosting/raw/main/client/live/repo/runelite-0.0.1.jar",
-      "size": 20426639
+      "size": 20426629
     },
     {
       "hash": "19910e74c0471369901fe5490de597f7402f8c15ac76f2dbb229f89048ee653b",
@@ -694,8 +694,8 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game-0.0.1.jar": "aee9607e9df2537a187ca36b4b509bfd130e433f71c2f7568fb41519b5127c24",
-    "runelite-0.0.1.jar": "0d785167582b9acea751e17da1871448a40840145314e238c8399820fd569353",
+    "game-0.0.1.jar": "ee9182bc038f21e96021711a7492acc8fd770950599a22db79bff59dd1343c7c",
+    "runelite-0.0.1.jar": "58fabe32dfdae87a446b8afaa9ab1841951ecd5727632d3bc100bf9f0fec6981",
     "rs-cache-library-6.9.jar": "19910e74c0471369901fe5490de597f7402f8c15ac76f2dbb229f89048ee653b",
     "disio-2.2.jar": "c4eb3fd121df53906a0d0444570aa070debec7697fa38110ba8979231ae88a71",
     "kotlin-stdlib-jdk7-1.8.22.jar": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
