@@ -78,10 +78,10 @@
   ],
   "artifacts": [
     {
-      "hash": "c02d7dc475aa7041f8822237c6f36b2efd88eaf0fd403f80393f577fe568dd07",
+      "hash": "aee9607e9df2537a187ca36b4b509bfd130e433f71c2f7568fb41519b5127c24",
       "name": "game-0.0.1.jar",
       "path": "https://github.com/MissSussy/Elvarg_Hosting/raw/main/client/live/repo/game-0.0.1.jar",
-      "size": 1329525
+      "size": 1631580
     },
     {
       "hash": "0d785167582b9acea751e17da1871448a40840145314e238c8399820fd569353",
@@ -272,7 +272,7 @@
     {
       "hash": "d0bd6817f4e73c9f99ea4c24271b73e48dabfb8964cf7617724cc9659ed674b3",
       "name": "orange-extensions-1.1.jar",
-      "path": "",
+      "path": "https://repo.runelite.net/net/runelite/orange-extensions/1.1/orange-extensions-1.1.jar",
       "size": 13536
     },
     {
@@ -694,7 +694,7 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game-0.0.1.jar": "c02d7dc475aa7041f8822237c6f36b2efd88eaf0fd403f80393f577fe568dd07",
+    "game-0.0.1.jar": "aee9607e9df2537a187ca36b4b509bfd130e433f71c2f7568fb41519b5127c24",
     "runelite-0.0.1.jar": "0d785167582b9acea751e17da1871448a40840145314e238c8399820fd569353",
     "rs-cache-library-6.9.jar": "19910e74c0471369901fe5490de597f7402f8c15ac76f2dbb229f89048ee653b",
     "disio-2.2.jar": "c4eb3fd121df53906a0d0444570aa070debec7697fa38110ba8979231ae88a71",
